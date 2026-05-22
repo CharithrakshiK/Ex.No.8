@@ -1,7 +1,7 @@
 ## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-# Date :
-# Reg. No. 
+# Date : 22/05/2026
+# Reg. No. 212224040053
 
 ## Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
@@ -53,3 +53,84 @@ By using detailed and well-crafted prompts, text-to-image generation models can 
 
 
 ## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
+
+## 🖼️ Example 1: Image Reproduction
+
+### 🏞️ Reference Image 1
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/6f412475-1738-4d30-9a7d-42b7c2c9e680" />
+
+### 🔍 Observations
+- **Main Subject:** Mountain landscape  
+- **Lighting:** Sunset glow  
+- **Colors:** Orange, purple, and golden hues  
+- **Mood:** Calm and peaceful  
+- **Style:** Realistic digital art
+
+### ✏️ Prompt Development
+
+**Basic Prompt:**  
+> "A mountain range during sunset."
+
+**Refined Prompt:**  
+> "A scenic mountain range at sunset with purple skies, orange glow, and calm water below."
+
+**Final Prompt:**  
+> "A detailed digital painting of a mountain range at sunset, golden sunlight reflecting on peaks, soft purple clouds, and a serene lake in the foreground."
+
+---
+
+### 🧾 Comparison Table
+
+| Feature | Original Image | Generated Image | Remarks |
+|----------|----------------|-----------------|----------|
+| **Colors** | Warm orange & purple | Nearly identical | ✅ Matched well |
+| **Lighting** | Natural sunlight | Slightly brighter | ⚙️ Can reduce brightness |
+| **Texture** | Smooth & painted | Similar digital finish | ✅ Accurate |
+| **Composition** | Balanced mountains | Almost identical | ✅ Well-aligned |
+
+**🧠 Result:**  
+The generated image closely matched the original. Minor lighting adjustments improved accuracy.
+
+---
+
+## 🌆 Example 2: Image Reproduction
+
+### 🏙️ Reference Image 2
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/ca67ff42-ecc3-4cfb-bf9a-0c6e1937cf2a" />
+
+
+### 🔍 Observations
+
+- **Main Subject:** A vibrant turquoise river flowing through a mountain valley.
+- **Lighting:** Warm, golden hour sunlight hitting the distant snow-capped peaks.
+- **Colors:** Dominant tones of turquoise blue, deep forest green, and stone grey.
+- **Mood:** Majestic, powerful, and serene.
+- **Style:** Realistic landscape photography.
+
+### ✏️ Prompt Development
+
+**Basic Prompt:**  
+> "A neon city street at night."
+
+**Refined Prompt:**  
+> "A futuristic city street at night with glowing neon lights and wet pavement."
+
+**Final Prompt:**  
+> "A cyberpunk-style city street at night glowing with pink, blue, and purple neon lights, wet asphalt reflecting the light, futuristic buildings, and people walking under holographic signs."
+
+---
+
+### 🧾 Comparison Table
+
+| Feature | Original Image | Generated Image | Remarks |
+|----------|----------------|-----------------|----------|
+| **Colors** | Strong neon tones | Perfectly matched | ✅ Excellent |
+| **Lighting** | Bright reflections | Slightly diffused | ⚙️ Needs sharper glow |
+| **Mood** | Futuristic vibe | Well captured | ✅ Good match |
+| **Composition** | Centered street | Similar alignment | ✅ Accurate |
+
+# Result:  
+The generated image captured the neon ambiance and structure effectively, closely resembling the original cyberpunk style.
+
+
+
